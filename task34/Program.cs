@@ -26,7 +26,7 @@ else
 
     Console.WriteLine($"В массиве {result} четных чисел");
 
-
+DateTimeOff
 void FillArrayRandomNumbers(int [] array) 
 {
     for (int i = 0; i < array.Length; i++)
